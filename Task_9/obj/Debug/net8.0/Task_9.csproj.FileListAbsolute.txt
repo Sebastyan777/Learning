@@ -1,0 +1,15 @@
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\bin\Debug\net8.0\Task_9.exe
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\bin\Debug\net8.0\Task_9.deps.json
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\bin\Debug\net8.0\Task_9.runtimeconfig.json
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\bin\Debug\net8.0\Task_9.dll
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\bin\Debug\net8.0\Task_9.pdb
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\Task_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\Task_9.AssemblyInfoInputs.cache
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\Task_9.AssemblyInfo.cs
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\Task_9.csproj.CoreCompileInputs.cache
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\Task_9.sourcelink.json
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\Task_9.dll
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\refint\Task_9.dll
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\Task_9.pdb
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\Task_9.genruntimeconfig.cache
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_9\obj\Debug\net8.0\ref\Task_9.dll

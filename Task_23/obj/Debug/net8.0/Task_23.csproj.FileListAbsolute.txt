@@ -1,0 +1,15 @@
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\bin\Debug\net8.0\Task_23.exe
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\bin\Debug\net8.0\Task_23.deps.json
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\bin\Debug\net8.0\Task_23.runtimeconfig.json
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\bin\Debug\net8.0\Task_23.dll
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\bin\Debug\net8.0\Task_23.pdb
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\Task_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\Task_23.AssemblyInfoInputs.cache
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\Task_23.AssemblyInfo.cs
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\Task_23.csproj.CoreCompileInputs.cache
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\Task_23.sourcelink.json
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\Task_23.dll
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\refint\Task_23.dll
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\Task_23.pdb
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\Task_23.genruntimeconfig.cache
+C:\Users\jogll\Desktop\Домашняя работа\Unity\Learning\Task_23\obj\Debug\net8.0\ref\Task_23.dll

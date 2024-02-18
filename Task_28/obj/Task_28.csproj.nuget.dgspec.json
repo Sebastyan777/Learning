@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_27\\Task_27.csproj": {}
+    "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_28\\Task_28.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_27\\Task_27.csproj": {
+    "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_28\\Task_28.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_27\\Task_27.csproj",
-        "projectName": "Task_27",
-        "projectPath": "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_27\\Task_27.csproj",
+        "projectUniqueName": "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_28\\Task_28.csproj",
+        "projectName": "Task_28",
+        "projectPath": "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_28\\Task_28.csproj",
         "packagesPath": "C:\\Users\\jogll\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_27\\obj\\",
+        "outputPath": "C:\\Users\\jogll\\Desktop\\Домашняя работа\\Unity\\Learning\\Task_28\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jogll\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,531 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.16f1 (d2c21f0ef2f1) revision 13812255'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreSingleLanguage' Language: 'ru' Physical Memory: 8066 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/jogll/Desktop/Домашняя работа/Unity/Learning/Task_29
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57329
+Successfully changed project path to: C:/Users/jogll/Desktop/Домашняя работа/Unity/Learning/Task_29
+C:/Users/jogll/Desktop/Домашняя работа/Unity/Learning/Task_29
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [328] Host "[IP] 192.168.1.68 [Port] 0 [Flags] 2 [Guid] 2720404542 [EditorId] 2720404542 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-AVO91GJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [328] Host "[IP] 192.168.1.68 [Port] 0 [Flags] 2 [Guid] 2720404542 [EditorId] 2720404542 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-AVO91GJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 3 workers.
+Refreshing native plugins compatible for Editor in 4034.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/jogll/Desktop/Домашняя работа/Unity/Learning/Task_29/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2008 MB
+    Driver:   31.0.15.3758
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56580
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.369404 seconds.
+- Loaded All Assemblies, in 13.679 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.720 seconds
+Domain Reload Profiling: 14395ms
+	BeginReloadAssembly (10033ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (1370ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (489ms)
+	LoadAllAssembliesAndSetupDomain (1749ms)
+		LoadAssemblies (10034ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1737ms)
+			TypeCache.Refresh (1735ms)
+				TypeCache.ScanAssembly (1213ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (722ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (586ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (345ms)
+			ProcessInitializeOnLoadMethodAttributes (208ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 20.610 seconds
+Refreshing native plugins compatible for Editor in 16.78 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.862 seconds
+Domain Reload Profiling: 23462ms
+	BeginReloadAssembly (503ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (24ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (61ms)
+	RebuildCommonClasses (139ms)
+	RebuildNativeTypeToScriptingClass (37ms)
+	initialDomainReloadingComplete (143ms)
+	LoadAllAssembliesAndSetupDomain (19777ms)
+		LoadAssemblies (16755ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (3318ms)
+			TypeCache.Refresh (3222ms)
+				TypeCache.ScanAssembly (2990ms)
+			ScanForSourceGeneratedMonoScriptInfo (75ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (2863ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2147ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (14ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (195ms)
+			ProcessInitializeOnLoadAttributes (1822ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (27ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (21ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 12.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3083 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (56.9 KB). Loaded Objects now: 3545.
+Memory consumption went from 122.1 MB to 122.1 MB.
+Total: 6.151300 ms (FindLiveObjects: 0.400100 ms CreateObjectMapping: 0.578900 ms MarkObjects: 4.985400 ms  DeleteObjects: 0.185500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 89502.539503 seconds.
+  path: Assets/Materials/Smoke.mat
+  artifactKey: Guid(50e982404c5bc6e40a99881cfd745c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Smoke.mat using Guid(50e982404c5bc6e40a99881cfd745c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '423cf9e9857ac1285664fe16033322df') in 1.213707 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 32.057543 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4fe85251aa2e89732c359432baa2c3') in 0.000589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.034575 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(a2173f71e4b85a3488b6e7ddc8498e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(a2173f71e4b85a3488b6e7ddc8498e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d4452f94973c7e803c2db55b17b1e0') in 0.001340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.400166 seconds.
+  path: Assets/Sprites/pngtree-smoke-explode-animation-sprite-sheet-png-image_6325648.png
+  artifactKey: Guid(b645b9323ec13644c9592e4dfb71b4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-smoke-explode-animation-sprite-sheet-png-image_6325648.png using Guid(b645b9323ec13644c9592e4dfb71b4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457d2b2b3b34facde86f33c542a782ec') in 0.156916 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 17.595498 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(eae4e987a21b09c499f0e4002447a576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(eae4e987a21b09c499f0e4002447a576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4163cb20f13810f57c32eb6056d3c56') in 0.000926 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 637.354776 seconds.
+  path: Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png
+  artifactKey: Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png using Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b90537ac3d557a0a31e65559ced60b6') in 0.059259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 30.427137 seconds.
+  path: Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png
+  artifactKey: Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png using Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c981f51eaa035f71cc3be5c8eb8194d2') in 0.116035 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 13.896855 seconds.
+  path: Assets/Sprites/pngtree-smoke-explode-animation-sprite-sheet-png-image_6325648.png
+  artifactKey: Guid(b645b9323ec13644c9592e4dfb71b4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-smoke-explode-animation-sprite-sheet-png-image_6325648.png using Guid(b645b9323ec13644c9592e4dfb71b4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e86b617fcd4060f176bc9ce753f260b6') in 0.052408 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.934 seconds
+Refreshing native plugins compatible for Editor in 5.76 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.162 seconds
+Domain Reload Profiling: 3088ms
+	BeginReloadAssembly (356ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (21ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (76ms)
+	RebuildCommonClasses (68ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (418ms)
+		LoadAssemblies (553ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (35ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (2ms)
+			ScanForSourceGeneratedMonoScriptInfo (11ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (2162ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1044ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (110ms)
+			ProcessInitializeOnLoadAttributes (868ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 6.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3111 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3632.
+Memory consumption went from 128.3 MB to 128.3 MB.
+Total: 32.336600 ms (FindLiveObjects: 0.345700 ms CreateObjectMapping: 0.332400 ms MarkObjects: 31.568200 ms  DeleteObjects: 0.088200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.226 seconds
+Refreshing native plugins compatible for Editor in 8.57 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.102 seconds
+Domain Reload Profiling: 3316ms
+	BeginReloadAssembly (411ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (73ms)
+	RebuildCommonClasses (80ms)
+	RebuildNativeTypeToScriptingClass (39ms)
+	initialDomainReloadingComplete (75ms)
+	LoadAllAssembliesAndSetupDomain (607ms)
+		LoadAssemblies (782ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (87ms)
+			TypeCache.Refresh (49ms)
+				TypeCache.ScanAssembly (32ms)
+			ScanForSourceGeneratedMonoScriptInfo (24ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (2103ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1198ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (141ms)
+			ProcessInitializeOnLoadAttributes (972ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 6.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3558 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (60.3 KB). Loaded Objects now: 4075.
+Memory consumption went from 139.6 MB to 139.5 MB.
+Total: 5.183800 ms (FindLiveObjects: 0.453700 ms CreateObjectMapping: 0.340000 ms MarkObjects: 4.255600 ms  DeleteObjects: 0.132900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 458.202343 seconds.
+  path: Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png
+  artifactKey: Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png using Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595872028a8998259d0a3a803b065ddd') in 0.134952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 41.312346 seconds.
+  path: Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png
+  artifactKey: Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png using Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b25258cf1a220c46b7fd1899572def') in 0.082469 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 24.868693 seconds.
+  path: Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png
+  artifactKey: Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png using Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b9690e6e0cad36c17a6a7d2d85b9de') in 0.044593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 54.277029 seconds.
+  path: Assets/Sprites/pngtree-smoke-explode-animation-sprite-sheet-png-image_6325648.png
+  artifactKey: Guid(b645b9323ec13644c9592e4dfb71b4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-smoke-explode-animation-sprite-sheet-png-image_6325648.png using Guid(b645b9323ec13644c9592e4dfb71b4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e247037598773248f0df5d2d6c8ea1f') in 0.044076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 43.062895 seconds.
+  path: Assets/Sprites/Braid_Player.png
+  artifactKey: Guid(08caf34a6d4e323499b76f03233c8acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Braid_Player.png using Guid(08caf34a6d4e323499b76f03233c8acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '688766d71b8cbea9ef1bc827918d64dc') in 0.132016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 11.520882 seconds.
+  path: Assets/Sprites/Braid_Player.png
+  artifactKey: Guid(08caf34a6d4e323499b76f03233c8acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Braid_Player.png using Guid(08caf34a6d4e323499b76f03233c8acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aaf3596e179359b54102baec920c43f') in 0.050475 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 27.752669 seconds.
+  path: Assets/Sprites/pngtree-smoke-explode-animation-sprite-sheet-png-image_6325648.png
+  artifactKey: Guid(b645b9323ec13644c9592e4dfb71b4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-smoke-explode-animation-sprite-sheet-png-image_6325648.png using Guid(b645b9323ec13644c9592e4dfb71b4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd995f9d201a5ece7e6f7a56d1387c343') in 0.030016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 114.543186 seconds.
+  path: Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png
+  artifactKey: Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png using Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017c1356664d0a0611c4e680e4042d8a') in 0.092581 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 12.292040 seconds.
+  path: Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png
+  artifactKey: Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png using Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660ecba994fea31163de8cf110d6b8d9') in 0.053640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 27.690285 seconds.
+  path: Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png
+  artifactKey: Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png using Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cd71008a109e1b76f75763de1a1312') in 0.043191 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 185.346868 seconds.
+  path: Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png
+  artifactKey: Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png using Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb609d3d186311decdbe0da3a039cc9e') in 0.053700 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 57.086717 seconds.
+  path: Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png
+  artifactKey: Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png using Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e8c6dacc637a942f17a5c3975171a0') in 0.049782 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 78.339706 seconds.
+  path: Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png
+  artifactKey: Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png using Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c248f64d70a7b8ef02bd696823c5bbeb') in 0.045758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 10.910982 seconds.
+  path: Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png
+  artifactKey: Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png using Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb141b93422f52f7eab7f41ada9e9e0') in 0.051594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 504.628189 seconds.
+  path: Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png
+  artifactKey: Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png using Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'badbdb03c6c924938b61612ee486ee7a') in 0.039776 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 180.418533 seconds.
+  path: Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png
+  artifactKey: Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pngtree-animated-smoke-explosion-cloud-png-image_6367301.png using Guid(c5bfed28aba06644492cd6ac08692776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '068a210e1886db73396782eebd82783a') in 0.101545 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 509.774063 seconds.
+  path: Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png
+  artifactKey: Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png using Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a2e1c3d5c2a5b59b0fb1683c07d062') in 0.083204 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 235.858750 seconds.
+  path: Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png
+  artifactKey: Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/animation-rpg-maker-xp-lighting-teeth-mouth-lip-transparent-png-281683.png using Guid(ff8d3d954487578469098bcd8adfc4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '687b9ede1680218951f63ba645d59352') in 0.214431 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 919.036557 seconds.
+  path: Assets/Materials/Smoke.mat
+  artifactKey: Guid(50e982404c5bc6e40a99881cfd745c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Smoke.mat using Guid(50e982404c5bc6e40a99881cfd745c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae291c9f536b203cfa445739d386271d') in 0.285234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
